@@ -1,0 +1,5 @@
+{
+  "name": "sample/php-beanstalk-app",
+  "description": "Sample PHP App",
+  "require": {}
+}
